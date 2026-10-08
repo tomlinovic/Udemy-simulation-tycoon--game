@@ -21,5 +21,13 @@
 ## About
 This project was created as my final high school project for the course Advanced and Object-Oriented Programming. The game focuses on farming, resource management, crafting, and trading mechanics. 
 
+## Repository Contents
+The uploaded ZIP contains the following Unity project folders:
+
+- Assets
+- Packages
+- ProjectSettings
+- UserSettings
+
 ## Author
 Leonardo Tomlinović
